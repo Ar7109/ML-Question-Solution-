@@ -1,0 +1,5 @@
+transformers==4.33.2  # Library for handling language models
+torch==2.0.1         # Deep learning framework required by transformers
+pandas==1.5.3        # Data manipulation and analysis
+plotnine==0.12.1     # Grammar of graphics plotting library
+matplotlib==3.7.2    # Plotting library (optional, for additional visualization)
